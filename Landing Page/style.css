@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:aliceblue;
+}
+.container{
+    max-width: 80vw;
+}
+
+.navbar{
+    display: flex;
+    height: 67px;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+    }
